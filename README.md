@@ -5,7 +5,7 @@ A dedicated space to document my hands-on learning journey in Data Science and A
 
 ## Project Architecture
 - **[Assignment 1]:** Data Exploration, handling missing values, and initial cleaning. *(Uploaded)*
-- **[Assignment 2]:** (Coming Soon)
+- **[Assignment 2]:** Advanced data manipulation, GroupBy aggregations, and multi-table merging. *(Uploaded)*
 - **[Assignment 3]:** (Coming Soon)
 - **[Final Project]:** (Coming Soon)
 
